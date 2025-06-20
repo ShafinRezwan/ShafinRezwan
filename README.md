@@ -1,6 +1,6 @@
 ## Hi, I'm Shafin ​👨🏾‍💻👋🏽
 
-🧠​ Computer science graduate from the University of Alberta
+🧠​ Computer science graduate from the University of Alberta <br>
 ​🎨 I'm passionate about full-stack development, design, and AI.
 
 ## Tech Stack 👩‍💻
